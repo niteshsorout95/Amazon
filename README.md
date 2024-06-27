@@ -1,0 +1,2 @@
+# Amazon
+Amazon landing page
